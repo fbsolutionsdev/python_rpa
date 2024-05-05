@@ -5,8 +5,8 @@ pyautogui.PAUSE = 0.7
 i_arq = 1
 
 # Caminho do PDF e da planilha
-caminho_pdf = 'C:\\Users\\lufer\\Desktop\\TESTERPA\\COMPROVANTES.pdf'
-caminho_planilha = 'C:\\Users\\lufer\\Desktop\\TESTERPA\\LISTA ALFABETICA.xlsx'
+caminho_pdf = 'COMPROVANTES.pdf'
+caminho_planilha = 'LISTA ALFABETICA.xlsx'
 
 # Abrir o PDF
 pyautogui.press('winleft')
